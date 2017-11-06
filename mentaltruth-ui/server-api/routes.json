@@ -1,0 +1,5 @@
+{
+  "/api/*": "/$1",
+  "/candidate\\?id=:id": "/candidate/:id",
+  "/candidate\\?id=:id/interview": "/candidate/:id/interview"
+}

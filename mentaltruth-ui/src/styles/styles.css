@@ -1,0 +1,45 @@
+.main_images {
+    height: 50px;
+}
+.h3-header {
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    font-size: 32px !important;
+    line-height: 40px !important;
+    letter-spacing: -0.6px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    color: #484848 !important;
+    font-weight: 700 !important;
+    margin-bottom: 0px !important;
+}
+
+.h4-header {
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    color: #1495ce !important;
+    margin-bottom: 0px !important;
+    font-size: 16px !important;
+}
+
+#profiles_header {
+    margin-bottom: 20px;
+}
+
+.profile_thumbnail {
+   background-color: #fafafa;
+   border-bottom: 2px solid #d9edf7;
+    -webkit-box-shadow: 0 5px 2px #d9edf7;
+    -moz-box-shadow: 0 5px 2px #d9edf7;
+    box-shadow: 0 5px 2px #d9edf7;
+    margin-bottom: 5px;
+}
+
+.profiles {
+    background: #ececec;
+}
+
+#main_carousel {
+    max-height: 20%;
+}
+.gravity_image {
+    margin-right: 20px;
+}

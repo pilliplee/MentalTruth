@@ -1,0 +1,5 @@
+falcon
+falcon-cors
+gunicorn
+textblob
+tweepy

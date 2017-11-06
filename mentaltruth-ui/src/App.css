@@ -1,0 +1,32 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  /* border-bottom: 2px solid #f7b731;
+  -webkit-box-shadow: 0 5px 2px #f7b731;
+  -moz-box-shadow: 0 5px 2px #f7b731;
+  box-shadow: 0 5px 2px #f7b731; */
+  margin-bottom: 0px;
+}
+
+@media (min-width: 768px) {
+.navbar {
+    border-radius: 0px;
+}
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

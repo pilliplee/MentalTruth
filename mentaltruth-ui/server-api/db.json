@@ -1,0 +1,1016 @@
+{
+  "profile": {
+    "first-name": "Day",
+    "last-name": "One",
+    "phone": "4165555555",
+    "address": "my own address"
+  },
+  "todos": [
+    {
+      "description": "Call Mom",
+      "done": false,
+      "id": "0"
+    },
+    {
+      "description": "By groceries",
+      "done": false,
+      "id": "1"
+    },
+    {
+      "description": "Return keys",
+      "done": false,
+      "id": "2"
+    },
+    {
+      "description": "Take car to recall",
+      "done": false,
+      "id": "3"
+    }
+  ],
+  "interview": [],
+  "interviewBlock": [
+    {
+      "id": 1,
+      "campus": "University of Toronto",
+      "jobFamily": "Second Round Engineer",
+      "startDate": "10/3/17",
+      "endDate": "10/4/17",
+      "status": "created"
+    },
+    {
+      "id": 2,
+      "campus": "University of Waterloo",
+      "jobFamily": "Second Round Business",
+      "startDate": "9/7/17",
+      "endDate": "9/10/17",
+      "status": "created"
+    },
+    {
+      "id": 3,
+      "startDate": "2017-10-03T04:00:00.000Z",
+      "endDate": "2017-10-04T04:00:00.000Z",
+      "campus": "University of Toronto",
+      "jobFamily": "Second Round Engineer",
+      "status": "created",
+      "interviewDays": [
+        {
+          "date": "2017-07-27",
+          "locationName": "Room 109",
+          "totalSlots": 3,
+          "interviewSlots": [
+            {
+              "id": 1,
+              "startTime": "09:00",
+              "endTime": "10:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "id": 2,
+              "startTime": "10:00",
+              "endTime": "11:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 1
+            },
+            {
+              "id": 3,
+              "startTime": "11:00",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 3
+            },
+            {
+              "id": 4,
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "isBlocked": true,
+              "totalSlots": 0,
+              "slotsTaken": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "campus": "University of Toronto",
+      "jobFamily": "Second Round Engineer",
+      "startDate": "",
+      "endDate": "",
+      "status": "",
+      "interviewDays": [
+        {
+          "date": "2017-08-27",
+          "locationName": "Day 1 - Location 1",
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "sessionDuration": "120",
+          "totalSlots": 1,
+          "interviewSlots": [
+            {
+              "startTime": "10:00",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            }
+          ],
+          "blockedTimes": [
+            {
+              "startTime": "10:00",
+              "endTime": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "campus": "University of Toronto",
+      "jobFamily": "First Round Engineer",
+      "startDate": "",
+      "endDate": "",
+      "status": "",
+      "interviewDays": [
+        {
+          "date": "2017-08-09",
+          "locationName": "Test",
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "sessionDuration": "30",
+          "totalSlots": 1,
+          "interviewSlots": [
+            {
+              "startTime": "10:00",
+              "endTime": "10:30",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "10:30",
+              "endTime": "11:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "11:00",
+              "endTime": "11:30",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "11:30",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            }
+          ],
+          "blockedTimes": [
+            {
+              "startTime": "10:00",
+              "endTime": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "campus": "University of Waterloo",
+      "jobFamily": "Second Round Engineer",
+      "startDate": "",
+      "endDate": "",
+      "status": "",
+      "interviewDays": [
+        {
+          "date": "2017-08-20",
+          "locationName": "Day 1 - Location 1",
+          "startTime": "08:00",
+          "endTime": "20:00",
+          "sessionDuration": "60",
+          "totalSlots": 1,
+          "interviewSlots": [
+            {
+              "startTime": "08:00",
+              "endTime": "09:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "09:00",
+              "endTime": "10:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "10:00",
+              "endTime": "11:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "11:00",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "13:00",
+              "endTime": "14:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "14:00",
+              "endTime": "15:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "15:00",
+              "endTime": "16:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "16:00",
+              "endTime": "17:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "17:00",
+              "endTime": "18:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "18:00",
+              "endTime": "19:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "19:00",
+              "endTime": "20:00",
+              "isBlocked": false,
+              "totalSlots": 1,
+              "slotsTaken": 0
+            }
+          ],
+          "blockedTimes": [
+            {
+              "startTime": "10:00",
+              "endTime": "10:00"
+            }
+          ]
+        },
+        {
+          "date": "2017-08-20",
+          "locationName": "Day 1 - Location 2",
+          "startTime": "09:00",
+          "endTime": "21:00",
+          "sessionDuration": "60",
+          "totalSlots": 2,
+          "interviewSlots": [
+            {
+              "startTime": "09:00",
+              "endTime": "10:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "10:00",
+              "endTime": "11:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "11:00",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "13:00",
+              "endTime": "14:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "14:00",
+              "endTime": "15:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "15:00",
+              "endTime": "16:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "16:00",
+              "endTime": "17:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "17:00",
+              "endTime": "18:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "18:00",
+              "endTime": "19:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "19:00",
+              "endTime": "20:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "20:00",
+              "endTime": "21:00",
+              "isBlocked": false,
+              "totalSlots": 2,
+              "slotsTaken": 0
+            }
+          ],
+          "blockedTimes": [
+            {
+              "startTime": "11:00",
+              "endTime": "11:00"
+            }
+          ]
+        },
+        {
+          "date": "2017-09-03",
+          "locationName": "Day 2 - Location 1",
+          "startTime": "10:00",
+          "endTime": "22:00",
+          "sessionDuration": "60",
+          "totalSlots": 3,
+          "interviewSlots": [
+            {
+              "startTime": "10:00",
+              "endTime": "11:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "11:00",
+              "endTime": "12:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "13:00",
+              "endTime": "14:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "14:00",
+              "endTime": "15:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "15:00",
+              "endTime": "16:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "16:00",
+              "endTime": "17:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "17:00",
+              "endTime": "18:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "18:00",
+              "endTime": "19:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "19:00",
+              "endTime": "20:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "20:00",
+              "endTime": "21:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            },
+            {
+              "startTime": "21:00",
+              "endTime": "22:00",
+              "isBlocked": false,
+              "totalSlots": 3,
+              "slotsTaken": 0
+            }
+          ],
+          "blockedTimes": [
+            {
+              "startTime": "10:00",
+              "endTime": "10:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "interviewBlocks": {
+    "id": 1,
+    "campus": "University of Toronto",
+    "jobFamily": "Second Round Engineer",
+    "startDate": "10/3/17",
+    "endDate": "10/4/17",
+    "status": "created",
+    "interviewDays": [
+      {
+        "date": "2017-08-27",
+        "locationName": "Room 109",
+        "concurrentSessions": "3",
+        "interviewSlots": [
+          {
+            "id": 1,
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 0
+          },
+          {
+            "id": 2,
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 1
+          },
+          {
+            "id": 3,
+            "startTime": "11:00",
+            "endTime": "12:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 3
+          },
+          {
+            "id": 4,
+            "startTime": "12:00",
+            "endTime": "13:00",
+            "isBlocked": true,
+            "totalSlots": 0,
+            "slotsTaken": 0
+          }
+        ]
+      },
+      {
+        "date": "2017-09-27",
+        "locationName": "Next to Room 109",
+        "concurrentSessions": "4",
+        "interviewSlots": [
+          {
+            "id": 1,
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 0
+          },
+          {
+            "id": 2,
+            "startTime": "11:00",
+            "endTime": "12:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 1
+          },
+          {
+            "id": 3,
+            "startTime": "01:00",
+            "endTime": "02:00",
+            "isBlocked": false,
+            "totalSlots": 3,
+            "slotsTaken": 3
+          },
+          {
+            "id": 4,
+            "startTime": "02:00",
+            "endTime": "03:00",
+            "isBlocked": true,
+            "totalSlots": 0,
+            "slotsTaken": 0
+          }
+        ]
+      }
+    ]
+  },
+  "interviewBlockOld": [
+    {
+      "campus": "University of Toronto",
+      "jobFamily": "Second Round Engineer",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-23",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Room 109",
+              "startTime": "03:00",
+              "endTime": "11:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "03:00 - 04:00",
+                "04:00 - 05:00",
+                "05:00 - 06:00",
+                "06:00 - 07:00",
+                "07:00 - 08:00",
+                "08:00 - 09:00",
+                "09:00 - 10:00",
+                "10:00 - 11:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "03:00",
+              "endBlockTime": "05:00"
+            }
+          ]
+        },
+        {
+          "dayIndex": 2,
+          "interviewDate": "2017-06-05",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Past Room",
+              "startTime": "04:00",
+              "endTime": "16:00",
+              "sessionDuration": "120",
+              "timeSlots": [
+                "04:00 - 06:00",
+                "06:00 - 08:00",
+                "08:00 - 10:00",
+                "10:00 - 12:00",
+                "12:00 - 14:00",
+                "14:00 - 16:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "01:00",
+              "endBlockTime": "05:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 2,
+      "id": 1
+    },
+    {
+      "campus": "University of Toronto",
+      "jobFamily": "First Round Engineer",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-04",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Past Interview",
+              "startTime": "04:00",
+              "endTime": "16:00",
+              "sessionDuration": "120",
+              "timeSlots": [
+                "04:00 - 06:00",
+                "06:00 - 08:00",
+                "08:00 - 10:00",
+                "10:00 - 12:00",
+                "12:00 - 14:00",
+                "14:00 - 16:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 1,
+      "id": 2
+    },
+    {
+      "campus": "University of Waterloo",
+      "jobFamily": "First Round Business",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-30",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Day 1 Location 1",
+              "startTime": "09:00",
+              "endTime": "17:00",
+              "sessionDuration": "90",
+              "timeSlots": [
+                "09:00 - 10:30",
+                "10:30 - 12:00",
+                "12:00 - 13:30",
+                "13:30 - 15:00",
+                "15:00 - 16:30"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            },
+            {
+              "locationName": "Day 1 Location 2",
+              "locationIndex": 2,
+              "startTime": "13:00",
+              "endTime": "17:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "13:00 - 14:00",
+                "14:00 - 15:00",
+                "15:00 - 16:00",
+                "16:00 - 17:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            }
+          ]
+        },
+        {
+          "dayIndex": 2,
+          "interviewDate": "2017-06-11",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Day 2 Location 1",
+              "startTime": "09:00",
+              "endTime": "12:00",
+              "sessionDuration": "180",
+              "timeSlots": [
+                "09:00 - 12:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "04:00",
+              "endBlockTime": "06:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 2,
+      "id": 3
+    },
+    {
+      "campus": "University of Waterloo",
+      "jobFamily": "Second Round Business",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-30",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Day 1 Location 1",
+              "startTime": "08:00",
+              "endTime": "17:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "08:00 - 09:00",
+                "09:00 - 10:00",
+                "10:00 - 11:00",
+                "11:00 - 12:00",
+                "12:00 - 13:00",
+                "13:00 - 14:00",
+                "14:00 - 15:00",
+                "15:00 - 16:00",
+                "16:00 - 17:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 1,
+      "id": 4
+    },
+    {
+      "campus": "University of Waterloo",
+      "jobFamily": "First Round Business",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-01",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Day 1 Location 1",
+              "startTime": "10:00",
+              "endTime": "12:00",
+              "sessionDuration": "30",
+              "timeSlots": [
+                "10:00 - 10:30",
+                "10:30 - 11:00",
+                "11:00 - 11:30",
+                "11:30 - 12:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            },
+            {
+              "locationName": "Day 1 Location 2",
+              "locationIndex": 2,
+              "startTime": "12:00",
+              "endTime": "19:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "12:00 - 13:00",
+                "13:00 - 14:00",
+                "14:00 - 15:00",
+                "15:00 - 16:00",
+                "16:00 - 17:00",
+                "17:00 - 18:00",
+                "18:00 - 19:00"
+              ],
+              "concurrentSessions": "2",
+              "startBlockTime": "11:00",
+              "endBlockTime": "11:00"
+            }
+          ]
+        },
+        {
+          "dayIndex": 2,
+          "interviewDate": "2017-07-01",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Day 2 Location 1",
+              "startTime": "19:00",
+              "endTime": "23:00",
+              "sessionDuration": "90",
+              "timeSlots": [
+                "19:00 - 20:30",
+                "20:30 - 22:00"
+              ],
+              "concurrentSessions": "3",
+              "startBlockTime": "12:00",
+              "endBlockTime": "12:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 2,
+      "id": 5
+    },
+    {
+      "campus": "University of Toronto",
+      "jobFamily": "First Round Engineer",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-09-03",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Room 109",
+              "startTime": "10:00",
+              "endTime": "12:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "10:00 - 11:00",
+                "11:00 - 12:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 1,
+      "id": 6
+    },
+    {
+      "campus": "University of Waterloo",
+      "jobFamily": "Second Round Business",
+      "interviewDays": [
+        {
+          "dayIndex": 1,
+          "interviewDate": "2017-06-24",
+          "locationDetails": [
+            {
+              "locationIndex": 1,
+              "locationName": "Digital Studio",
+              "startTime": "10:00",
+              "endTime": "20:00",
+              "sessionDuration": "60",
+              "timeSlots": [
+                "10:00 - 11:00",
+                "11:00 - 12:00",
+                "12:00 - 13:00",
+                "13:00 - 14:00",
+                "14:00 - 15:00",
+                "15:00 - 16:00",
+                "16:00 - 17:00",
+                "17:00 - 18:00",
+                "18:00 - 19:00",
+                "19:00 - 20:00"
+              ],
+              "concurrentSessions": "1",
+              "startBlockTime": "10:00",
+              "endBlockTime": "10:00"
+            }
+          ]
+        }
+      ],
+      "totalInterviewDays": 1,
+      "id": 7
+    }
+  ],
+  "interviewTile": {
+    "campus": "UofT",
+    "jobfamily": "Engineering",
+    "Days": "12/12/2017"
+  },
+  "interviewAvailable": {
+    "campus": "University of Toronto",
+    "jobFamily": "Second Round Engineer",
+    "interviewDays": [
+      {
+        "dayIndex": "1",
+        "interviewDate": "2017-06-22",
+        "timeSlots": [
+          {
+            "time": "03:00 - 04:00",
+            "available": true
+          },
+          {
+            "time": "04:00 - 05:00",
+            "available": true
+          },
+          {
+            "time": "05:00 - 06:00",
+            "available": true
+          },
+          {
+            "time": "06:00 - 07:00",
+            "available": true
+          },
+          {
+            "time": "07:00 - 08:00",
+            "available": false
+          },
+          {
+            "time": "08:00 - 09:00",
+            "available": true
+          },
+          {
+            "time": "09:00 - 10:00",
+            "available": true
+          },
+          {
+            "time": "10:00 - 11:00",
+            "available": true
+          }
+        ]
+      },
+      {
+        "dayIndex": 2,
+        "interviewDate": "2017-06-23",
+        "timeSlots": [
+          {
+            "time": "04:00 - 06:00",
+            "available": true
+          },
+          {
+            "time": "06:00 - 08:00",
+            "available": true
+          },
+          {
+            "time": "08:00 - 10:00",
+            "available": true
+          },
+          {
+            "time": "10:00 - 12:00",
+            "available": true
+          },
+          {
+            "time": "12:00 - 14:00",
+            "available": false
+          },
+          {
+            "time": "14:00 - 16:00",
+            "available": true
+          }
+        ]
+      }
+    ],
+    "totalInterviewDays": 2,
+    "id": 1
+  },
+  "user": {
+    "id": 1,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "role": "Second Round Engineer",
+    "interview_slot": {
+      "start_time": "",
+      "end_time": "",
+      "is_blocked": false,
+      "is_available": true,
+      "candidate_id": "1"
+    }
+  },
+  "interview_slot": {
+    "date": "06/23/2017",
+    "location": "University of Toronto",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "is_blocked": false,
+    "is_available": true,
+    "candidate_id": "1"
+  },
+  "stuff": {
+    "firstName": "Fred",
+    "lastName": "Flintstone"
+  }
+}
